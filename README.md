@@ -1,41 +1,44 @@
-### Hi there 👋 
-### This is Fernando Roldán!
+## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/edited%20header.png)](https://stephenajulu.com)
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
-
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
-
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
-
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
-
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<p align='center'>
+<a href="https://dev.to/stephenajulu"><img height="30" src="https://raw.githubusercontent.com/stephenajulu/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<h2 align="center">Hello there! My name is Joan Sebastian Giraldo . 👋🤓</h2>
+<p align="center">I'm a Systems engineer, Full Stack Web Developer from Colombia. I am currently working as a freelancer in different projects, both for myself and for some clients.</p>
+
+<em><p align="center"><a href="https://portafolio-ochre-seven.vercel.app">My Personal Website and Portfolio Built with NextJs, Hosted on Vercel </a></p></em>
+<p>
+  
+</p>
+
+### 💼 Where am currently working at/as
+- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
+- [Open World: Freelance](https://stephenajulu.com)
+
+### 💻 What am currently working on
+- [GreeetinCard](https://greeetincard.crd.co)  🚀
+- Tech6  🚀 *coming soon*
+- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
+- BioEmergency & Biomme  🚀 *coming soon*
+- Quevant  🚀 *coming very soon* 🚀
+- TechSavant  🚀 *coming very soon* 🚀
+- Lofied  🚀 *coming soon*
+
+### 📖 What am currently learning
+- Full Stack Web Development  * Progress 31% *
+- AI & Machine Learning  * Progress 13% *
+- Cybersecurity and Ethical Hacking  * Progress 72% *
+
+### 📫 Where to find me
+- [Twitter](https://twitter.com/stephenajulu) 🐤
+- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
+- [Website](https://stephenajulu.com) 😏🔗
+- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
+- [Additional Ways](https://stephenajulu.com/links) 🔗🔗
+- [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
+
+<h4 align="center">From <a href="https://github.com/stephenajulu/stephenajulu"> Stephen Ajulu's Github Profile Readme MD</a></h4>
